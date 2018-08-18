@@ -11,7 +11,7 @@
 getwd()
 setwd("C:/Ayush Yuvraj/My Document/R studio/Assignment")
 # import Apple stock price data
-df <- read.csv('AAPL - Copy.csv')
+df <- read.csv('AAPL.csv')
 head(df)
 str(df)
 View(df)
